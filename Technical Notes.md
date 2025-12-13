@@ -21,6 +21,14 @@ This script forms the foundation for future analysis and visualization of stock 
 3. 🧠 Analytical Insights
    - Enables portfolio planners to detect diversification opportunities.
    - Helps identify which sectors or companies are more sensitive to market fluctuations.
+4.  📈 Power BI Dashboard Enhancements
+       Integrated Python-processed stock data into Power BI
+       Created interactive dashboards showing:
+  - 52-week High & Low analysis
+  - LTP, OPEN, HIGH, LOW comparisons
+  - % Change and 30-day % Change
+  - Trading Value (₹ Crores)
+  - Volatility and correlation insights
 
  Technical Notes
 - Used pandas for return calculations and seaborn for heatmap visualization.
